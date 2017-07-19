@@ -8,16 +8,32 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>School of Information</p>
+    <p>102 South Hall Drive</p>
+    <p>Berkeley, CA 94720</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a post-doctoral researcher in the
+[University of California, Berkeley](http://www.berkeley.edu)
+[School of Information](https://www.ischool.berkeley.edu). In 2016 I
+received my PhD in Political Science from the
+[University of California, San Diego](http://polisci.ucsd.edu). I also
+studied at the University of Michigan where I graduated with a BA in
+Political Science and a BA in Econometrics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I research how group identity shapes access and behavior in
+politics. Often, this takes the form of experiments. My research has
+been published in _Perspectives on Politics_, _California Journal of
+Politics and Policy_, _The Lancet_, _PNAS_,
+and field journals.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Please see my [projects page](./projects) for more information about my research. 
+
+I am proud to lead the multiply-awarded course _Experiments and Causality_ in the MIDS
+program at UC Berkeley.
+
+You may download a copy of my current CV
+[here](./assets/cv/Hughes_CV.pdf).
