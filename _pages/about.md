@@ -1,8 +1,8 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>D. Alex </strong> Hughes
+description: Post-Doctoral Researcher, UC Berkeley School of Information
 
 profile:
   align: right
