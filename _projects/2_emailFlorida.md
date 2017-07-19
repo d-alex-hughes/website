@@ -25,6 +25,6 @@ individuals who we contacted were _less_ likely to turnout than the
 control group that received no contact. 
 
 Read an early PDF version of this paper
-<a href="{{ site.baseurl }}/assets/papers/draft-RiveraHughesGellRedman.pdf"> here</a>. 
+<a href="{{ site.baseurl }}/assets/pdf/draft-RiveraHughesGellRedman.pdf"> here</a>. 
 
 

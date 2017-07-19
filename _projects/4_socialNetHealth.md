@@ -15,10 +15,10 @@ Shakya, with important support from other scholars, we addressed
 questions about the [flow of information about
 treatment](http://fowler.ucsd.edu/social_network_targeting_to_maximise_population_behaviour_change.pdf),
 beliefs about the [appropriateness of Intimate Partner
-Violence](/assets/papers/ShakyaHughes.2016.pdf), and [maternal and child
-health](/assets/papers/ShakyaStaffordHughes.2017.pdf).
+Violence](/assets/pdf/ShakyaHughes.2016.pdf), and [maternal and child
+health](/assets/pdf/ShakyaStaffordHughes.2017.pdf).
 
 Separately, as a part of a research team working in a high-immigration
 town in Oaxaca, MX, I have been examining how migration and social
 network support shape the prevalance of [depression and substance
-abuse](/assets/papers/Meacham.2016.pdf).
+abuse](/assets/pdf/Meacham.2016.pdf).
