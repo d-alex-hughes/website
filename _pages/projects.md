@@ -2,8 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: projects that are in the pipeline or just out
 ---
+
+For a more structured but slower-moving presentation, you
+could download [my CV](./assets/cv/Hughes_CV.pdf). 
 
 {% for project in site.projects %}
 

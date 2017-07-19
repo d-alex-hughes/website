@@ -8,21 +8,19 @@ description: > # this means to ignore newlines until "url:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
-last_updated: # leave blank if you don't want to display last updated
+last_updated: July 2017 # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: d-alex-hughes # put your github username
-twitter_username: dalexhughes # put your twitter username
-linkedin_username: # put your linkedin username
-scholar_authorid: # put your google scholar author id
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+twitter_username: d_alex_hughes # put your twitter username
+linkedin_username: d-alex-hughes-25a729139 # put your linkedin username
+scholar_authorid: gasnTQMAAAAJ # put your google scholar author id
+contact_note: 
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -41,7 +39,7 @@ text:
     older: 'Older'
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 
 # Optional features
 show_social_icons:  false
@@ -83,7 +81,7 @@ gems:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Hughes
 
   style: apa
   locale: en
