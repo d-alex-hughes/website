@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2017-07-18 
 inline: true
 ---
-Good news! (For me). This website is now up! :sparkle:
+Good news! (For me). This website is now up! :sparkles:
