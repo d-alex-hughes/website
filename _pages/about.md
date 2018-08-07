@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>D. Alex </strong> Hughes
-description: Post-Doctoral Researcher, UC Berkeley School of Information
+description: Adjunct Assistant Professor, UC Berkeley School of Information
 
 profile:
   align: right
@@ -16,7 +16,7 @@ news: true
 social: true
 ---
 
-I am a post-doctoral researcher in the
+I am an adjunct assistant professor in the
 [University of California, Berkeley](http://www.berkeley.edu)
 [School of Information](https://www.ischool.berkeley.edu). In 2016 I
 received my PhD in Political Science from the
