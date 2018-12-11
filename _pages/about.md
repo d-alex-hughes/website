@@ -26,8 +26,8 @@ Political Science and a BA in Econometrics.
 
 I research how group identity shapes access and behavior in
 politics. Often, this takes the form of experiments. My research has
-been published in _Perspectives on Politics_, _California Journal of
-Politics and Policy_, _The Lancet_, _PNAS_,
+been published in _Political Behavior_, _Perspectives on Politics_,
+_California Journal of Politics and Policy_, _The Lancet_, _PNAS_,
 and field journals.
 
 Please see my [projects page](./projects) for more information about my research. 
