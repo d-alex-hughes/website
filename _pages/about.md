@@ -36,5 +36,5 @@ I am proud to lead the multiply-awarded course _Experiments and Causality_ in th
 program at UC Berkeley.
 
 You may download a copy of my current CV
-[here](./assets/cv/Hughes_CV.pdf). You may download a copy of my Job
-Market Paper [here](./assets/pdf/Hughes_JobMarketPaper.pdf). 
+[here](./assets/cv/Hughes_CV.pdf). <!-- You may download a copy of my Job -->
+<!-- Market Paper [here](./assets/pdf/Hughes_JobMarketPaper.pdf).  -->
