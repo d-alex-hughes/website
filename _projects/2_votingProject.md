@@ -5,7 +5,7 @@ description: How Does Group Identity Shape Access?
 img: /assets/img/merica.jpg
 ---
 
-Read a PDF version of the paper <a href="{{ site.baseurl }}/assets/pdf/draft-electionOfficials.pdf">here</a>. 
+Read a PDF version of the paper <a href="{{ site.baseurl }}/assets/pdf/electionOfficials.pdf">here</a>. 
 
 Results of an audit study conducted during the 2016 election cycle
 demonstrate that the bias toward Latinos observed during the 2012

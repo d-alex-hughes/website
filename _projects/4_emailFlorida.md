@@ -17,14 +17,6 @@ norm of voting as civic duty, or providing factual information about
 groups of voters expected to turnout.
 
 <div class="img_row">
-    <img class="col three" src="{{ site.baseurl }}/assets/img/responsePlot.jpg"/>
-</div> 
-
-Contrary to our expectations we found that those
-individuals who we contacted were _less_ likely to turnout than the
-control group that received no contact. 
-
-Read an early PDF version of this paper
-<a href="{{ site.baseurl }}/assets/pdf/draft-RiveraHughesGellRedman.pdf"> here</a>. 
-
+    <img class="col three" src="{{ site.baseurl }}/assets/img/florida-effectPlot.png"/>
+</div>
 
