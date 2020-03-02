@@ -6,7 +6,7 @@ description: projects that are in the pipeline or just out
 ---
 
 For a more structured but slower-moving presentation, you
-could download [my CV](./assets/cv/Hughes_CV.pdf). 
+could download [my CV](/assets/cv/Hughes_CV.pdf). 
 
 {% for project in site.projects %}
 
