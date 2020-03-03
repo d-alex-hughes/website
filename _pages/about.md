@@ -12,7 +12,7 @@ profile:
     <p>102 South Hall Drive</p>
     <p>Berkeley, CA 94720</p>
 
-news: true
+news: false
 social: true
 ---
 
@@ -26,14 +26,15 @@ Political Science and a BA in Econometrics.
 
 I research how group identity shapes access and behavior in
 politics. Often, this takes the form of experiments. My research has
-been published in _Political Behavior_, _Perspectives on Politics_,
-_California Journal of Politics and Policy_, _The Lancet_, _PNAS_,
-and field journals.
+been published in _The Proceedings of the National Acadamies of
+Science_, _The Lancet_, _Political Behavior_, _Perspectives on Politics_,
+_The Journal of Experimental Political Science_, _California Journal
+of Politics and Policy_  and field journals. 
 
 Please see my [projects page](./projects) for more information about my research. 
 
-I am proud to lead the multiply-awarded course _Experiments and Causality_ in the MIDS
-program at UC Berkeley.
+I am proud to lead the multiply-awarded course _Experiments and
+Causality_ in the MIDS and MIMS program at the School of Information. 
 
 You may download a copy of my current CV
 [here](./assets/cv/Hughes_CV.pdf). <!-- You may download a copy of my Job -->
