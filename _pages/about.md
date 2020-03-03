@@ -16,7 +16,7 @@ news: false
 social: true
 ---
 
-I am an adjunct assistant professor in the
+Since 2019, I have been appointed as an adjunct assistant professor in the
 [University of California, Berkeley](http://www.berkeley.edu)
 [School of Information](https://www.ischool.berkeley.edu). In 2016 I
 received my PhD in Political Science from the
